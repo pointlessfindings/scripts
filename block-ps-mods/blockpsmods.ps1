@@ -8,7 +8,6 @@
     .NOTES
     Author: Pointless Findings
     https://pointlessfindings.com
-
 #>
 
 Param (
